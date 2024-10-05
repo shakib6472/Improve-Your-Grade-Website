@@ -1,0 +1,57 @@
+
+---Downloaded files---
+The import files for: Home v1 to 6 (LearnPress) were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://thepixelcurve.com/edubin/tut
+Data file = /home/thepixelcurve/public_html/edubin/wp-content/uploads/sites/5/2024/05/demo-content-import-file_2024-05-02__02-09-40.xml
+Widget file = /home/thepixelcurve/public_html/edubin/wp-content/uploads/sites/5/2024/05/demo-widgets-import-file_2024-05-02__02-09-40.json
+Customizer file = /home/thepixelcurve/public_html/edubin/wp-content/uploads/sites/5/2024/05/demo-customizer-import-file_2024-05-02__02-09-40.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+blog-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Edubin Recent Post - No Title - Imported to Inactive
+Categories - No Title - Imported to Inactive
+Tag Cloud - No Title - Imported to Inactive
+
+(Edubin) Blog Sidebar : 
+
+Edubin Recent Post - Recent Posts - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+Image - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

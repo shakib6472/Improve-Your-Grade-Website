@@ -1,0 +1,20 @@
+.edubin-course-archive.edubin-lms-courses-grid .course:not(body) {
+    padding: 0 15px !important;
+    border-bottom: 0px !important;
+}
+.edubin-single-course .course-price .regular-price {
+    display: none;
+}
+
+/*==== Course Grid ====*/
+.course:not(body) .edubin-course .course-excerpt{
+margin-top: 0;
+}
+.course:not(body), .course-container, .course-container .course{
+    border-bottom: 0;
+}
+/*==== Course Single ====*/
+.edubin-course-single-wrap span.woocommerce-Price-amount.amount {
+    color: #fff;
+}
+

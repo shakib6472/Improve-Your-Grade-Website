@@ -1,0 +1,12 @@
+.edubin-elementor-icon:after {
+    position: absolute;
+    content: 'Edubin';
+    top: 2px;
+    right: 2px;
+    font-size: 10px;
+    opacity: .8;
+    color: #ffc600;
+}
+.elementor-element .icon .edubin-icon::before {
+    color: #ffc600;
+}

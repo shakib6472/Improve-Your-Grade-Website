@@ -1,0 +1,438 @@
+:root {
+    --tutor-primary-color: var(--edubin-primary-color);
+    --tutor-color-primary: var(--edubin-primary-color);
+    --tutor-primary-hover-color: var(--edubin-btn-bg-hover-color);
+    --tutor-primary: var(--edubin-primary-color);
+    --tutor-color-primary-hover: var(--edubin-btn-bg-hover-color);
+    --tutor-body-color: var(--edubin-content-color);
+    --tutor-color-muted: var(--edubin-content-color);
+    --tutor-border-color: var(--edubin-color-border);
+}
+body .tutor-btn-primary {
+    background: var(--edubin-color-btn-bg);
+    border-color: var(--edubin-color-btn-border);
+    color: var(--edubin-color-btn-text);
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 3px;
+}
+.tutor-btn-primary:hover, .tutor-btn-primary:focus, .tutor-btn-primary:active {
+    color: var(--edubin-color-btn-text-hover);
+    border-color: var(--edubin-color-btn-border-hover);
+    background-color: var(--edubin-color-btn-bg-hover);
+}
+.tutor-btn-outline-primary {
+    border-color: var(--edubin-color-btn-border);
+    border-radius: 3px;
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.tutor-btn-outline-primary:hover, .tutor-btn-outline-primary:focus, .tutor-btn-outline-primary:active {
+    color: var(--edubin-color-btn-text-hover);
+    border-color: var(--edubin-color-btn-border-hover);
+    background-color: var(--edubin-color-btn-bg-hover);
+}
+.tutor-instructor-application-process a.tutor-bg-primary.tutor-color-white.tutor-py-16.tutor-px-32.tutor-radius-6{
+    background: var(--edubin-color-btn-bg);
+    border-color: var(--edubin-color-btn-border);
+    color: var(--edubin-color-btn-text);
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 3px;
+}
+/* === Before === */
+
+/* == Archive page == */
+
+/* == Single page == */
+
+/* == Single Sidebar == */
+
+/* === Before === */
+/* === Course Curriculum === */
+/* === Course Topic === */
+
+/* == Archive page == */
+.edubin-course .course__content--meta .price span+span{
+    margin-left: 0;
+}
+.tutor-pagination{
+        border: 1px solid var(--edubin-color-border);
+}
+.tutor-pagination ul.tutor-pagination-numbers .page-numbers.prev, .tutor-pagination ul.tutor-pagination-numbers .page-numbers.next{
+    background: #f9f9f9;
+}
+.tutor-ratings-average {
+    color: var(--edubin-content-color);
+}
+.tutor-course-list.tutor-grid.tutor-grid-2 .edubin-course .course__title a {
+    font-size: 24px;
+    line-height: 34px;
+}
+.tutor-course-list.tutor-grid.tutor-grid-3 .edubin-course .course__title a {
+    font-size: 20px;
+    line-height: 30px;
+}
+.tutor-course-list.tutor-grid.tutor-grid-4 .edubin-course .course__title a {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.tutor-container.course-archive-page .edubin-col-lg-4 .edubin-course .course__title a {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.post-type-archive-courses .tpc-site-content {
+    padding-top: 90px;
+    padding-bottom: 90px !important;
+}
+.type-courses .edubin-wishlist-wrapper {
+    line-height: 35px;
+}
+.tutor-course-filter {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    padding: 38px 30px 20px;
+    font-size: var(--edubin-h5);
+    font-weight: var(--edubin-p-semi-bold);
+    line-height: var(--edubin-h5-lineHeight);
+}
+#content>div>div.tutor-row.tutor-gx-xl-5>div.tutor-col-xl-9>div:nth-child(1)>div {
+    background: none;
+    padding-top: 0;
+}
+.tutor-widget-title {
+    font-weight: 700;
+    margin-bottom: 20px;
+    position: relative;
+    color: var(--edubin-heading-color);
+}
+.tutor-course-filter .tutor-btn-outline-primary {
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid #d2d5d6;
+    padding: 7px 20px;
+    border-radius: 100px;
+    background: #f9f9f9;
+    color: var(--edubin-content-color);
+}
+.tutor-course-filter .tutor-btn-outline-primary:hover {
+    border-color: var(--edubin-primary-color);
+    color: var(--edubin-primary-color);
+}
+.tutor-list-item label {
+    font-size: 15px;
+    color: var(--edubin-heading-color);
+    font-weight: 400;
+}
+.tutor-course-filter li {
+    position: relative;
+    font-size: 15px;
+    line-height: 26px;
+    color: var(--edubin-heading-color);
+    cursor: pointer;
+    font-weight: 400;
+}
+.tutor-list-item label input[type=checkbox] {
+    position: relative;
+    width: 17px;
+    height: 17px;
+    margin: 0 15px 0 0;
+    border: 1px solid #d2d5d6;
+    border-radius: 2px;
+    background-color: var(--edubin-color-white);
+    vertical-align: top;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.tutor-course-filter input.tutor-form-control {
+    border: 0 none;
+    background: #ffffff;
+    height: 45px;
+    width: 100%;
+    border-radius: 100px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 0 20px 0 45px;
+    font-family: var(--edubin-font-primary);
+    border: 1px solid var(--edubin-color-border);
+}
+.tutor-course-filter .tutor-widget+.tutor-widget {
+    border-top: 1px solid var(--edubin-color-border);
+    padding-top: 25px;
+    margin-top: 25px;
+}
+.tutor-ratings-lg .tutor-ratings-stars {
+    font-size: 15px;
+}
+/* == Single page == */
+.course-sidebar-preview.tutor .tutor-course-sidebar-card-pricing.tutor-align-end.tutor-justify-between {
+    justify-content: center !important;
+
+    display: none !important;
+}
+body .tutor-tag-list li a {
+    font-size: 15px;
+    line-height: 23px;
+    padding: 7px 13px;
+    margin-left: 9px;
+}
+body .tutor-course-details-widget-tags .tutor-tag-list li a {
+    margin-bottom: 0;
+}
+body .tutor-ratings-stars {
+    color: #ffb60a;
+}
+.tutor-color-black {
+    color: var(--edubin-heading-color);
+}
+.single-course-layout-05 span.tutor-meta-value.tutor-color-secondary.tutor-mr-4 {
+    color: #fff;
+}
+
+.tutor-nav-link, .tutor-nav-link:focus, .tutor-nav-link:hover, .tutor-nav-link:active {
+    font-weight: 600;
+}
+body .tutor-accordion-item-header.is-active {
+    color: var(--edubin-heading-color);
+    background: rgba(241, 242, 248, 0.4);
+}
+.tutor-card-footer:not(.tutor-no-border) {
+    border-top: 1px solid #ededed;
+}
+.tutor-course-details-tab nav.tutor-nav {
+    margin-bottom: 30px;
+}
+body.single.single-courses .content-area {
+    padding: 100px 0 110px;
+}
+.tutor-fs-1, .tutor-fs-2, .tutor-fs-3, .tutor-fs-4, .tutor-fs-5, .tutor-fs-6, .tutor-fs-7, .tutor-fs-8, .tutor-fs-9 {
+    font-size: var(--edubin-font-size-b1);
+}
+.single-course-layout-02 .edubin-course-single-wrap {
+    /*    padding-top: 40px;*/
+}
+.single-course-layout-03 .tutor-nav {
+    justify-content: center;
+}
+.single-course-layout-03 .tutor-card-md .tutor-card-body {
+    text-align: center;
+}
+.single-course-layout-03 .tutor-card-md .tutor-card-body span.tutor-fs-4.tutor-fw-bold.tutor-color-black {
+    font-size: 22px;
+}
+/* == Single Sidebar == */
+.course-sidebar-preview  .tutor-btn-primary[disabled], .course-sidebar-preview .tutor-btn-primary.disabled{
+    background: var(--edubin-color-btn-bg);
+    border-color: var(--edubin-color-btn-border);
+    color: var(--edubin-color-btn-text);
+}
+body .course-sidebar-preview {
+    border-radius: inherit;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+}
+.course-sidebar-preview h3 {
+    font-weight: var(--edubin-p-bold);
+    font-size: var(--edubin-h4);
+    line-height: var(--edubin-h4-lineHeight);
+    margin-bottom: 35px;
+}
+.tutor-single-course-sidebar-more>div {
+    border-radius: 5px;
+    background: #fff;
+    overflow: hidden;
+    border: 1px solid #ededed;
+    padding: 30px;
+    margin-top: 30px;
+    box-shadow: 0 0 30px rgb(0 0 0 / 5%);
+}
+.tutor-single-course-sidebar-more .tutor-course-details-instructors+div {
+    border-top: 1px solid #ededed;
+}
+.tutor-single-course-sidebar-more>div:first-child {
+    border-top: 1px solid #ededed;
+}
+.tutor-single-course-sidebar-more>div:last-child {
+    border-bottom: 1px solid #ededed;
+}
+.tutor-card-footer:not(.tutor-no-border) {
+    border-top: 1px solid #ededed;
+}
+.tutor-card:not(.tutor-no-border) {
+    border: none;
+    border-radius: 0;
+}
+.intro-video-sidebar.intro-video-content {
+    margin-bottom: 0;
+    background: transparent;
+    border-left: 1px solid #ededed;
+    border-right: 1px solid #ededed;
+    border-top: 1px solid #ededed;
+}
+.course-sidebar-preview.tutor .tutor__widget {
+    border-radius: 0;
+}
+.tutor-sidebar-top-wrap {
+    border-radius: 5px;
+    background: #fff;
+    border: 1px solid #ededed;
+    box-shadow: 0 0 30px rgb(0 0 0 / 5%);
+}
+body .course-sidebar-preview .woocommerce-Price-amount {
+    color: var(--edubin-primary-color-alt);
+    font-weight: 700;
+    font-size: 24px;
+}
+.course-sidebar-preview.tutor .tutor-card-md .tutor-card-body {
+    padding: 30px 0;
+}
+.course-sidebar-preview.tutor .tutor-card-footer, .edubin-tutor-course-layout--3 .tutor-card-footer {
+    display: none;
+}
+.tutor-course-single-pricing {
+    text-align: center;
+    display: none;
+}
+.tutor-course-single-pricing span {
+    color: var(--edubin-primary-color-alt);
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+}
+/* === Course Curriculum === */
+
+.tutor-course-content-list-item {
+    padding: 0 25px;
+    line-height: 57px;
+    border-bottom: 1px solid #eee;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.tutor-course-content-list-item:last-child {
+    border-bottom: none;
+}
+.tutor-accordion-item {
+    border-radius: 0;
+}
+.tutor-accordion-item-header {
+    font-size: 16px;
+    font-weight: 600;
+}
+.tutor-accordion-item-header::after {
+    color: var(--edubin-color-body);
+    font-size: 13px;
+    border: 1px solid #e0e2ea;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 100px;
+    text-align: center;
+    right: 17px;
+    position: absolute;
+}
+.tutor-course-content-list-item-title {
+    font-size: 15px;
+}
+.tutor-icon-mark:before {
+    font-size: 14px;
+}
+.tutor-icon-youtube-brand:before {
+    content: "\f14a";
+    font-family: 'flaticon_edubin';
+    font-size: 15px;
+}
+.tutor-icon-brand-youtube-bold:before {
+    content: "\f14a";
+    font-family: 'flaticon_edubin';
+    font-size: 15px;
+}
+li .tutor-icon-bullet-point:before {
+    content: "\f147";
+    font-family: 'flaticon_edubin';
+    font-size: 13px;
+    color: var(--edubin-primary-color);
+}
+/* === Course review === */
+
+.tutor-ratings-stars>* {
+    margin: 0 2px;
+}
+.tutor-card-list-item:not(:last-child) {
+    border-bottom: 1px solid #ebebeb;
+}
+.tutor-hr {
+    background-color: #ebebeb;
+}
+.tutor-avatar-text {
+    color: inherit;
+    background-color: #efefef;
+}
+.tutor-review-summary-average-rating {
+    font-weight: 600;
+    font-size: 58px;
+    line-height: 50px;
+    color: var(--edubin-heading-color);
+}
+.tutor-review-summary .tutor-col-lg-auto.tutor-text-center.tutor-mb-16.tutor-mb-lg-0 {
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 0 0 30px rgb(0 0 0 / 5%);
+    padding: 20px 35px;
+}
+.tutor-review-summary .tutor-col-lg {
+    padding-left: 30px;
+}
+.tutor-review-summary.tutor-p-24.tutor-p-lg-40 {
+    padding: 40px 20px;
+}
+/* === Dashboard === */
+
+.tutor-table tr td>a:not(.tutor-btn):not(.tutor-iconic-btn):not(.quiz-manual-review-action), .tutor-table tr td .tutor-table-link{
+    color: var(--edubin-heading-color);
+    font-weight: 600;
+}
+.tutor-table tr td {
+    border-bottom: 1px solid var(--edubin-color-border);
+    line-height: 2;
+    font-weight: 500;
+}
+.tutor-dashboard-content .tutor-card:not(.tutor-no-border) {
+    border: 1px solid var(--edubin-color-border);
+}
+.tutor-course-card .tutor-course-co-author-badge{
+font-size: 14px;
+    padding: 4px 15px;
+    background: var(--edubin-primary-color);
+}
+.tutor-course-card .tutor-course-name, .tutor-course-card .tutor-course-name a{
+   color: var(--edubin-heading-color); 
+}
+.tutor-dashboard-content .tutor-course-card span.woocommerce-Price-amount.amount {
+    font-weight: 700;
+}
+.tutor-dashboard-content .tutor-course-card span.tutor-fs-7.tutor-fw-medium.tutor-color-black {
+    font-weight: 700;
+}
+.tutor-dashboard-content .tutor-course-card .tutor-course-name, .tutor-dashboard-content .tutor-course-card .tutor-course-name a {
+    color: var(--edubin-heading-color);
+    font-weight: 700;
+    font-size: 18px;
+}
+/* === Course Topic === */
+.tutor-course-single-content-wrapper #tutor-single-entry-content .tutor-course-topic-single-header{
+    background: #13181C;
+}

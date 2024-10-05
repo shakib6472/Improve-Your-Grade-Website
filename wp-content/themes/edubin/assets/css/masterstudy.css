@@ -1,0 +1,182 @@
+:root {
+    --accent-100: var(--edubin-primary-color) !important;
+    --accent-hover: var(--edubin-color-btn-bg-hover) !important;
+}
+.product-over-info .loading {
+    min-height: inherit;
+    position: relative;
+}
+body .star-rating {
+    margin-top: 5px !important;
+}
+body .masterstudy-buy-button {
+    background: var(--edubin-color-btn-bg) !important;
+    border-color: var(--edubin-color-btn-border) !important;
+    color: var(--edubin-color-btn-text) !important;
+}
+body .masterstudy-buy-button>a.masterstudy-buy-button__link {
+    background: var(--edubin-color-btn-bg) !important;
+    border-color: var(--edubin-color-btn-border) !important;
+    color: var(--edubin-color-btn-text) !important;
+}
+body.stm_lms_button .masterstudy-buy-button>a.masterstudy-buy-button__link {
+    min-height: inherit;
+    padding: 17px 30px;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 4px;
+}
+body .masterstudy-buy-button>a.masterstudy-buy-button__link:hover {
+    background: var(--edubin-color-btn-bg-hover) !important;
+    border-color: var(--edubin-color-btn-border-hover) !important;
+    color: var(--edubin-color-btn-text-hover) !important;
+}
+body .masterstudy-buy-button__link.masterstudy-buy-button__link_centered .masterstudy-buy-button__title {
+    color: var(--edubin-color-btn-text-hover) !important;
+    font-weight: 600;
+    letter-spacing: inherit;
+    text-transform: capitalize;
+}
+body.stm_lms_button .masterstudy-buy-button:hover .masterstudy-buy-button__link.masterstudy-buy-button__link_centered .masterstudy-buy-button__title {
+    color: #fff!important;
+}
+/*===== Course Wishlist =====*/
+
+.edubin-wishlist-wrapper-ms {
+    pointer-events: all;
+    font-size: 0px;
+    cursor: pointer;
+    width: 32px;
+    height: 32px;
+    line-height: 1;
+    text-align: center;
+    border-radius: 100%;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 25px;
+    right: 20px;
+    border-color: #fff;
+    background: #fff;
+    color: var(--edubin-heading-color);
+}
+.wishlist-4.edubin-wishlist-wrapper-ms {
+    right: 30px;
+}
+.edubin-wishlist-wrapper-ms .stm-lms-wishlist {
+    margin: 0;
+}
+.edubin-wishlist-wrapper-ms .stm-lms-wishlist span {
+    display: none;
+}
+.edubin-wishlist-wrapper-ms .stm-lms-wishlist i {
+    margin: 0;
+    border: 0;
+}
+.edubin-ms-course-rating-wrap {
+    display: inline-flex;
+}
+.edubin-ms-course-rating-wrap .edubin-ms-rating-text {
+    margin-left: 5px;
+    bottom: 1px;
+    position: relative;
+}
+/*===== Course Single =====*/
+
+.ms-course-single-layout-03 {
+    padding-top: 30px;
+}
+.single-stm-courses.single-course-layout-01 {
+    background: #f9f9f9;
+}
+body .masterstudy-curriculum-list__excerpt-toggler {
+    background: #ebebeb;
+}
+.single-stm-courses.single-course-layout-01 .edubin-course-single-content-area {
+    background: #fff;
+    padding: 40px 45px;
+}
+.single-stm-courses.single-course-layout-01 .content-area {
+    padding-top: 90px;
+}
+.single-stm-courses.single-course-layout-02 .edubin-course-single-top-space {
+    padding-top: 50px;
+}
+.single-stm-courses.single-course-layout-03 .content-area {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.single-stm-courses.single-course-layout-03 .masterstudy-single-course-tabs__content {
+    width: 970px !important;
+    max-width: 970px;
+    margin: 0 auto;
+}
+.single-stm-courses.single-course-layout-03 .masterstudy-single-course-tabs.masterstudy-single-course-tabs_style-underline {
+    justify-content: center;
+}
+.course-short-text .masterstudy-single-course-excerpt {
+    color: #fff;
+    font-size: 18px;
+    line-height: 30px;
+}
+.single-stm-courses.single-course-layout-04 .edubin-course-single-top-space {
+    padding-top: 50px;
+}
+.single-stm-courses.single-course-layout-04 .course-short-text .masterstudy-single-course-excerpt {
+    color: inherit;
+}
+.course-sidebar-preview.ms .masterstudy-single-course-wishlist {
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.course-sidebar-preview.ms .masterstudy-single-course-details__title {
+    font-family: var(--edubin-font-secondary);
+    font-weight: var(--edubin-p-semi-bold);
+    font-size: var(--edubin-h4);
+    margin-top: 25px;
+    color: var(--edubin-heading-color);
+}
+.masterstudy-single-course-tabs.masterstudy-single-course-tabs_style-underline .masterstudy-single-course-tabs__item {
+    color: var(--edubin-heading-color);
+    font-weight: 600;
+    font-size: 15px;
+}
+body .masterstudy-single-course-details__icon::before {
+    color: var(--edubin-primary-color);
+    font-size: 18px;
+}
+body .masterstudy-single-course-wishlist__title::before {
+    color: var(--edubin-primary-color);
+}
+body .masterstudy-curriculum-list__item {
+    margin: 0px 0 8px;
+    background: rgba(241, 242, 248, 0.3);
+    border: 1px solid #ebebeb;
+}
+body .masterstudy-curriculum-list a.masterstudy-curriculum-list__link {
+    padding: 18px 20px;
+}
+body .masterstudy-curriculum-list a.masterstudy-curriculum-list__link:hover {
+    background: rgba(241, 242, 248, 0.5);
+}
+body .masterstudy-curriculum-list__section-title {
+    font-weight: 600;
+    color: var(--edubin-heading-color);
+}
+body .masterstudy-curriculum-list__image {
+    width: 15px;
+}
+body .masterstudy-single-course-faq__item {
+    background: rgba(241, 242, 248, 0.3);
+    border: 1px solid #ebebeb;
+    margin-bottom: 8px;
+}
+body .masterstudy-single-course-faq__item:hover {
+    background: rgba(241, 242, 248, 0.5) !important;
+    border: 1px solid #ebebeb;
+}
+body .masterstudy-single-course-description__content p {
+    line-height: 32px;
+}

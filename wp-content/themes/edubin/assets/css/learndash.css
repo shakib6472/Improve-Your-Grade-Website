@@ -1,0 +1,112 @@
+.tpc-course-details-page-content .learndash-wrapper .ld-course-status.ld-course-status-not-enrolled .ld-button, .tpc-course-details-page-content .learndash-wrapper #btn-join, a.edu-btn, p.edubin-cart-shop-page-link a, button.edu-btn {
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    line-height: 1;
+    color: var(--edubin-color-white);
+    background: var(--edubin-primary-color);
+    padding: 15px 30px;
+    font-size: 15px;
+    font-weight: 500;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    font-family: var(--edubin-font-secondary);
+    border: 0 none;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+}
+/*==== Review ===== */
+
+/*==== Single Page ===== */
+
+/*==== Topic ===== */
+
+.tpc-course-review {
+    font-family: 'flaticon_edubin';
+}
+/*==== Single Page ===== */
+body .learndash-wrapper .ld-tabs .ld-tabs-navigation .ld-tab.ld-active {
+    color: var(--edubin-primary-color);
+}
+body .learndash-wrapper .ld-tabs .ld-tabs-navigation .ld-tab.ld-active:after {
+    background: var(--edubin-primary-color);
+}
+body.single.single-sfwd-courses .content-area {
+    padding: 100px 0 30px;
+}
+body .learndash-wrapper .ld-table-list .ld-table-list-header {
+    background-color: #f0f3f6;
+    color: var(--edubin-heading-color);
+}
+body .learndash-wrapper .ld-item-list .ld-item-list-item {
+    border: 1px solid var(--edubin-color-border);
+}
+body .ld-text {
+    font-weight: 600;
+}
+body list.ld-table-list .ld-table-list-lesson-details .ld-lesson-list-progress {
+    font-weight: 600;
+}
+body .learndash-wrapper .ld-expand-button {
+    background-color: var(--edubin-primary-color);
+}
+body .learndash-wrapper .ld-expand-button:hover {
+    background-color: color-mix(in srgb, var(--edubin-primary-color) 85%, transparent);
+}
+body .learndash-wrapper .ld-expand-button.ld-button-alternate .ld-icon {
+    background: var(--edubin-heading-color)
+}
+body .learndash-wrapper .ld-expand-button.ld-button-alternate {
+    color: var(--edubin-heading-color);
+}
+body .ld-icon-content:before {
+    content: "\e905";
+    font-size: 18px;
+}
+body .learndash-wrapper .ld-table-list a.ld-table-list-item-preview:hover {
+    color: var(--edubin-primary-color);
+}
+body .learndash-wrapper .ld-item-list .ld-item-list-item a.ld-item-name:hover {
+    color: var(--edubin-primary-color);
+}
+body .learndash-wrapper .ld-course-status .ld-status.ld-status-progress {
+    background: var(--edubin-primary-color);
+}
+/*==== Topic ===== */
+
+body .learndash-wrapper .ld-focus .ld-focus-sidebar .ld-course-navigation-heading {
+    background-color: var(--edubin-color-dark);
+}
+body .learndash-wrapper .ld-focus .ld-focus-sidebar .ld-focus-sidebar-trigger {
+    background: var(--edubin-color-dark);
+}
+body .learndash-wrapper .ld-course-navigation .ld-lesson-item.ld-is-current-lesson .ld-lesson-item-preview-heading, body .learndash-wrapper .ld-course-navigation .ld-lesson-item.ld-is-current-lesson .ld-lesson-title {
+    color: var(--edubin-primary-color);
+}
+body .learndash-wrapper .ld-course-navigation .ld-lesson-item.ld-is-current-lesson .ld-lesson-item-preview-heading .ld-status-incomplete, body .learndash-wrapper .ld-course-navigation .ld-lesson-item.ld-is-current-lesson .ld-lesson-title .ld-status-incomplete {
+    border: 2px solid var(--edubin-primary-color);
+}
+body .learndash-wrapper .ld-course-navigation .ld-lesson-item-preview a.ld-lesson-item-preview-heading:hover {
+    color: var(--edubin-primary-color);
+}
+body .learndash-wrapper .ld-breadcrumbs .ld-status.ld-status-progress {
+    background: var(--edubin-primary-color);
+}
+body .learndash-wrapper .ld-button.ld-button-transparent {
+    color: var(--edubin-primary-color);
+}
+body .learndash-wrapper .ld-button {
+    background-color: var(--edubin-primary-color);
+}
+body .learndash-wrapper .ld-button:hover {
+    background-color: var(--edubin-primary-color);
+    opacity: .85;
+}
+body .learndash-wrapper #learndash_mark_complete_button:hover, body .learndash-wrapper .learndash_mark_complete_button:hover {
+    background-color: var(--edubin-primary-color);
+    opacity: .85;
+}
+body .learndash-wrapper .ld-focus .ld-focus-header .ld-user-menu .ld-user-menu-items a {
+    background-color: var(--edubin-color-dark);
+}

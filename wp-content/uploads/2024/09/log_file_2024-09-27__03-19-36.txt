@@ -1,0 +1,106 @@
+
+---Downloaded files---
+The import files for: Online Learning (Tutor) were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://khaki-sandpiper-692841.hostingersite.com
+Data file = /home/u781798142/domains/khaki-sandpiper-692841.hostingersite.com/public_html/wp-content/uploads/2024/09/demo-content-import-file_2024-09-27__03-19-36.xml
+Widget file = /home/u781798142/domains/khaki-sandpiper-692841.hostingersite.com/public_html/wp-content/uploads/2024/09/demo-widgets-import-file_2024-09-27__03-19-36.json
+Customizer file = /home/u781798142/domains/khaki-sandpiper-692841.hostingersite.com/public_html/wp-content/uploads/2024/09/demo-customizer-import-file_2024-09-27__03-19-36.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+(Edubin) Blog Sidebar : 
+
+Edubin Recent Post - Recent Posts - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+Image - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

@@ -1,0 +1,16 @@
+[05-Oct-2024 07:04:51 UTC] 1
+[05-Oct-2024 07:04:51 UTC] 08/07/14
+[05-Oct-2024 07:04:51 UTC] 03:06
+[05-Oct-2024 07:04:51 UTC] 300
+[05-Oct-2024 07:04:51 UTC] 30
+[05-Oct-2024 07:05:26 UTC] 1
+[05-Oct-2024 07:05:26 UTC] 08/07/14
+[05-Oct-2024 07:05:26 UTC] 03:06
+[05-Oct-2024 07:05:26 UTC] 300
+[05-Oct-2024 07:05:26 UTC] 30
+[05-Oct-2024 07:20:59 UTC] PHP Warning:  Undefined array key "quote_bg_color" in C:\xampp\htdocs\iyg\wp-content\plugins\edubin-core\elementor\widgets\tpl-part\testimonials\testimonial-4.php on line 6
+[05-Oct-2024 07:20:59 UTC] PHP Warning:  Undefined array key "quote_icon_color" in C:\xampp\htdocs\iyg\wp-content\plugins\edubin-core\elementor\widgets\tpl-part\testimonials\testimonial-4.php on line 7
+[05-Oct-2024 07:20:59 UTC] PHP Warning:  Undefined array key "quote_bg_color" in C:\xampp\htdocs\iyg\wp-content\plugins\edubin-core\elementor\widgets\tpl-part\testimonials\testimonial-4.php on line 6
+[05-Oct-2024 07:20:59 UTC] PHP Warning:  Undefined array key "quote_icon_color" in C:\xampp\htdocs\iyg\wp-content\plugins\edubin-core\elementor\widgets\tpl-part\testimonials\testimonial-4.php on line 7
+[05-Oct-2024 07:20:59 UTC] PHP Warning:  Undefined array key "quote_bg_color" in C:\xampp\htdocs\iyg\wp-content\plugins\edubin-core\elementor\widgets\tpl-part\testimonials\testimonial-4.php on line 6
+[05-Oct-2024 07:20:59 UTC] PHP Warning:  Undefined array key "quote_icon_color" in C:\xampp\htdocs\iyg\wp-content\plugins\edubin-core\elementor\widgets\tpl-part\testimonials\testimonial-4.php on line 7

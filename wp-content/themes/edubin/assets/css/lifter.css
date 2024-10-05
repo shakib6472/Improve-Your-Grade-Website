@@ -1,0 +1,36 @@
+.single-course-layout-01 .content-area{
+    padding: 90px 0;
+}
+body.single-course-layout-01 .content-area{
+    padding-bottom: 20px;
+}
+.single-course-layout-02 .edubin-course-single-wrap {
+    padding-top: 50px;
+    padding-right: 50px;
+}
+.llms-instructor-info .llms-instructors .llms-author .avatar{
+	background: var(--edubin-primary-color);
+    border: 4px solid var(--edubin-primary-color);
+}
+.llms-instructor-info .llms-instructors .llms-author {
+    border-top: 4px solid var(--edubin-primary-color);
+}
+.llms-lesson-preview .llms-lesson-link {
+    padding: 15px 25px;
+}
+.llms-button-primary {
+    background: var(--edubin-color-btn-bg);
+    border-color: var(--edubin-color-btn-border);
+    color: var(--edubin-color-btn-text);
+}
+.llms-button-primary:hover, .llms-button-primary.clicked{
+    background: var(--edubin-color-btn-bg-hover);
+    border-color: var(--edubin-color-btn-border-hover);
+    color: var(--edubin-color-btn-text-hover);
+}
+.llms-lesson-preview.is-free .llms-lesson-complete, .llms-lesson-preview.is-complete .llms-lesson-complete{
+	color: #2dbbc4;
+}
+.llms-access-plan-title{
+	background: var(--edubin-primary-color);
+}
